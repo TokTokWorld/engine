@@ -3,6 +3,8 @@ package io.planex.mvp.ledger;
 import java.math.BigDecimal;
 import java.util.UUID;
 
+// todo хранить совершенные сделки, выгружать в базу, отдавать на фронт
+// todo и тд
 public class OrderBookTest {
 
     public static void main(String[] args) {
